@@ -1,1 +1,1 @@
-![Worm Animation](https://github.com/username/repository/blob/main/path/to/your-animation.gif)
+![Worm Animation](https://raw.githubusercontent.com/username/repository/main/path/to/your-animation.gif)
